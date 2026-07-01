@@ -6,25 +6,35 @@
 *.key
 *.p12
 *.pfx
-*credentials*
-*secret*
-*token*
-*password*
+*.credentials
+credentials.json
+credentials/
+.secret
+.secrets
+*.secret
+*.secrets
+secret.*
+secrets.*
+*.token
+token.*
+tokens.*
+*.password
+password.*
 
 # Local OpenClaw/runtime state
-.openclaw/
-.clawhub/
-.vault-cache/
-openclaw-workspace-state.json
-SESSION-STATE.md
-CURRENT_STATE.md
-EOF
+/.openclaw/
+/.clawhub/
+/.vault-cache/
+/openclaw-workspace-state.json
+/SESSION-STATE.md
+/CURRENT_STATE.md
+/EOF
 
 # Runtime logs, caches, and generated outputs
-logs/
-output/
-exports/
-archive/
+/logs/
+/output/
+/exports/
+/archive/
 *.log
 *.tmp
 *.cache
@@ -33,23 +43,23 @@ archive/
 *.sqlite3
 
 # Dependency and build artifacts
-node_modules/
+/node_modules/
 **/node_modules/
 __pycache__/
 *.py[cod]
-.venv/
-venv/
-dist/
-build/
+/.venv/
+/venv/
+/dist/
+/build/
 
 # Sensitive operational memory and network working state
-memory/
-network/
-bridge/config/
-bridge/logs/
-bridge/data/
-bridge/cron/
-bridge/langchain-ollama/venv/
+/memory/
+/network/
+/bridge/config/
+/bridge/logs/
+/bridge/data/
+/bridge/cron/
+/bridge/langchain-ollama/venv/
 
 # Generated documents
 *.pdf
