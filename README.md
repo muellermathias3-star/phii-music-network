@@ -39,8 +39,8 @@ flow.
 
 ## Initial Areas
 
-- MOLTEBOOK workflow
-- Music distribution pipeline
-- Security and secret hygiene
-- Memory consolidation and audit rules
-- PHII content tone and editorial rules
+- [MOLTEBOOK workflow](docs/workflows/moltbook.md)
+- [Music distribution pipeline](docs/workflows/music-distribution.md)
+- [Security and secret hygiene](docs/security/secret-hygiene.md)
+- [Memory consolidation and audit rules](docs/memory/audit-trail.md)
+- [PHII content tone and editorial rules](docs/content/phii-tonality.md)
