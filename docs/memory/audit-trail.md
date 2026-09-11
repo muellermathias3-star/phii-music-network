@@ -38,6 +38,10 @@ Public-safe:
 - [ ] Source noted
 - [ ] Audit entry created locally
 
+## Private Versionierung
+
+Private Core-/Memory-Mutationen privat versionieren. Ein lokaler Audit-Commit erlaubt keine öffentliche Veröffentlichung. Öffentliche Ableitungen separat bereinigen; Version, Auslöser, Quelle und Prüfung ohne private Vollinhalte dokumentieren.
+
 ## GitHub Use
 
 GitHub Issues may track that a memory process exists or needs review. They must

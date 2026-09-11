@@ -26,6 +26,10 @@ The `.gitignore` is intentionally conservative. Sensitive working areas such as
 outputs stay local unless a specific file is reviewed, sanitized, and
 deliberately allowlisted.
 
+## Quelle und Wirksamkeit
+
+Repository-Dateien sind öffentliche geprüfte Dokumentation, ohne belegte Deployment-Zuordnung keine aktiven Core-Dateien. Private Core-/Memory-Mutationen werden privat versioniert; ein lokaler Audit-Commit autorisiert keine öffentliche Veröffentlichung. BOOT-/BOOTSTRAP-Existenz aktiviert keine Runtime-Mechanik.
+
 ## Current Workflow
 
 1. Use GitHub Issues to track network work.
