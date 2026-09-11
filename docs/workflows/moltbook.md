@@ -14,7 +14,7 @@ and traceable. No filler posts.
 
 Before anything goes live:
 
-1. FREYA tone check: poetic, honest, vulnerable, empowering, concrete.
+1. FREYA tone check: poetic, honest, emotionally grounded, empowering, concrete.
 2. ODIN plausibility check: useful contribution, no private/raw data, no
    unreleased sensitive details, no pressure-language.
 3. Engagement check: avoid duplicate replies and empty reactions.

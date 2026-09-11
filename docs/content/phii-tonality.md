@@ -3,13 +3,17 @@
 PHII-adjacent writing should feel honest, grounded, and alive. It should not
 sound like generic marketing.
 
+Quelle: bestätigte USER.md-Direktive vom 2026-09-10 und Freigabe D9. Healing/Verletzlichkeit sind für die aktuelle Positionierung nicht kanonisch; die frühere Pflicht ist abgelöst. Claude Design bleibt kanonische visuelle/Content-Quelle; Assets vor Ableitung tatsächlich lesen.
+
 ## Voice
 
 - Poetic
 - Honest
-- Vulnerable
+- Emotional personal storytelling
 - Empowering
-- Healing
+- Strength
+- Renewal and comeback
+- Independent artist identity
 - Concrete
 - Calm
 
@@ -27,7 +31,7 @@ sound like generic marketing.
 
 1. FREYA drafts in PHII's voice.
 2. ODIN checks plausibility, privacy, and strategic fit.
-3. External publication only happens through the active approval/review gate.
+3. ODIN prüft Ton, Fakten, Privatsphäre und strategische Passung. Innerhalb bestehender Standing Delegations ist dies eine interne Qualitätsprüfung; neue Grundentscheidungen bleiben PHII vorbehalten.
 4. Outcomes are summarized without private raw data.
 
 ## Practical Checks

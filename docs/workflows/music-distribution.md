@@ -18,7 +18,7 @@ Standard outreach can proceed when all conditions are true:
 - No rights transfer
 - No unusual terms
 - No E2/E3 details
-- No deadline pressure below the approval threshold
+- Zeitdruck erweitert weder Befugnisse noch Kosten- oder Rechtefreigaben.
 - FREYA tone check and ODIN plausibility check pass
 
 ## Non-Standard Outreach
